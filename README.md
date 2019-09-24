@@ -30,9 +30,9 @@ Bu gerçekten kulağa hoş geliyor. Bildiğimiz kodlama yapısı artık bize **y
 
 Peki Javascript 'i son zamanlarda **en popüler di**l yapan sadece bu mu ? Hayır...
 
-** **Npm yani node package manager** ile bir çok hazır javascript kütüphanesini projelerimize **saniyeler içinde indirebiliyoruz**. Üstelik npm i kullanmak için nodejs projesi geliştirmek zorunda değiliz. Her türlü projemize hazır js ve css kütüphanelerini kolaylıkla indirebiliyoruz.
+**Npm yani node package manager** ile bir çok hazır javascript kütüphanesini projelerimize **saniyeler içinde indirebiliyoruz**. Üstelik npm i kullanmak için nodejs projesi geliştirmek zorunda değiliz. Her türlü projemize hazır js ve css kütüphanelerini kolaylıkla indirebiliyoruz.
 
-** Ve tabi ki en önemlisi **Angular, React** ve **VueJs'** in Javascript dilini kullanarak geliştirilmesi diyebiliriz. Yani Javascript i biliyorsak **Angular, React** ve **VueJs'** i kolaylıkla öğrenebiliriz.
+Ve tabi ki en önemlisi **Angular, React** ve **VueJs'** in Javascript dilini kullanarak geliştirilmesi diyebiliriz. Yani Javascript i biliyorsak **Angular, React** ve **VueJs'** i kolaylıkla öğrenebiliriz.
 
 Peki nedir **Angular, React** ve **VueJs** kütüphanesi ?
 
