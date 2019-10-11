@@ -1,6 +1,6 @@
 # Modern Javascript Kursu: ES6/ES7 | 2019
 
-Modern Javascript Kursu: ES6/ES7|2019 kursumuzu incelemek için [tıklayınız.](https://www.udemy.com/aspnet-core-mvc-kursu/?couponCode=GITHUB27 "tıklayınız.")
+Modern Javascript Kursu: ES6/ES7|2019 kursumuzu incelemek için [tıklayınız.](https://www.udemy.com/course/modern-javascript-kursu/?referralCode=039B2533A42D1A45FD32 "tıklayınız.")
 
 **Javascript son zamanlarda en popüler diller** arasında yerini aldı hatta listenin en başında diyebiliriz.
 
@@ -42,4 +42,4 @@ Yani **android için Java, IOS için swift bilmemize hiç gerek yok** javascript
 
 **Güçlü bir Javascript bilgisine sahip olmak son zamanlarda yazılım adına yapmamız gereken en önemli adımdır.** Bu kursumuzda **modern javascript** tekniklerini iyi bir şekilde öğrenerek **nodejs angular, react** ve **vuejs** için güzel bir temel oluşturacağız.
 
-Kursa indirimli katılmak için [tıklayınız.](https://www.udemy.com/aspnet-core-mvc-kursu/?couponCode=GITHUB27 "tıklayınız.")
+Kursa indirimli katılmak için [tıklayınız.](https://www.udemy.com/course/modern-javascript-kursu/?referralCode=039B2533A42D1A45FD32 "tıklayınız.")
