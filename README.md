@@ -39,7 +39,7 @@ Sağlam bir **modern Javascript** bilgisine sahip olmak son zamanlarda yazılım
 17.  **Webpack, Babel & ES6 Module**    
 18.  **TypeScript**    
 
-Zaman kaybetmeden **Javascript** dünyasına katılın ve **Modern Javascript**' in  getirdiği güzellikleri modern **javascript dersleri** ile hep beraber tanımaya başlayalım.
+Zaman kaybetmeden **Javascript** dünyasına katılın ve **Modern Javascript**' in  getirdiği güzellikleri **javascript dersleri** ile hep beraber tanımaya başlayalım.
 
 **Javascript dersleri** kursumuzu incelemek için [tıklayınız](https://www.udemy.com/course/modern-javascript-kursu/?referralCode=039B2533A42D1A45FD32).
 **Javascript dersleri** yazılı dökümanlarını incelemek için [tıklayınız]([https://sadikturan.com/javascript-dersleri](https://sadikturan.com/javascript-dersleri)).
