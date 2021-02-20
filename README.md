@@ -1,5 +1,5 @@
 
-# Sıfırdan İleri Seviye Modern Javascript Kursu: ES6/ES7+ (2020)
+# Sıfırdan İleri Seviye Modern Javascript Kursu: ES6/ES7+
 Modern javascript kursumuzu incelemek için [tıklayınız](https://www.udemy.com/course/modern-javascript-kursu/?referralCode=039B2533A42D1A45FD32).
 
 Modern **javascript dersleri** ile (ES6 & ES7+) **Nodejs**, **Angular**, **React** ve **VueJs** için sağlam bir temel oluşturun.
