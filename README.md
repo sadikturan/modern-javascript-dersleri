@@ -20,24 +20,28 @@ Sağlam bir **modern Javascript** bilgisine sahip olmak son zamanlarda yazılım
 
 **Kurs Planımınız;**
 
-1.  Javascript Temelleri: 1.Seviye (**Değişkenler**,**Operatörler**,**Objeler**,**Diziler**)    
-2.  Javascript Temelleri: 2.Seviye (**Koşul İfadeleri**,**Döngüler**,**Fonksiyonlar**)    
-3.  Javascript **Dom Manipulasyonu**    
-4.  Javascript **Events**    
-5.  Proje #1 - **Todo Uygulaması** - Dom    
-6.  Proje #2 - **Slider Uygulaması** - Dom    
-7.  Javascript **Nesne Tabanlı Programlama**    
-8.  Javascript **İleri Seviye Fonksiyonlar**    
-9.  Proje #3 - Nesne Tabanlı Programlama ile **Quiz Uygulaması**    
-10.  Modern Javascript Teknikleri: **ES6 / ES7+**    
-11.  Proje #4 - **Kurslar Uygulaması** - ES6 Class Kullanımı    
-12.  **Asekron Programlama** & **AJAX** (**Json**,**Restful Api, Callback, Promise, Fetch Api, Async & Await** )    
-13.  Proje #5 - **Profil Arama Projesi - Api Projesi**    
-14.  Javascript **Patterns**    
-15.  Proje #5 - **Ürün Katalog Projesi**- **Modüller** ile Proje Geliştirme    
-16.  **Nodejs** & **Npm**    
-17.  **Webpack, Babel & ES6 Module**    
-18.  **TypeScript**    
+1.  Javascript Temelleri: 1.Seviye (Değişkenler,Operatörler,Objeler,Diziler,Koşul İfadeleri,Döngüler,Fonksiyonlar)    
+2.  Javascript Dom & Events  
+3.  Proje #1 - Slider Uygulaması
+4.  Proje #2 - Form Validator
+5.  Proje #3 - Sinema Bilet Rezervasyonu
+6.  Proje #4-Hesap Makinesi
+7.  Proje #5-Adam Asmaca Oyunu
+8.  Javascript OOP  
+9.  Proje #6: Quiz Uygulaması
+10. Modern Javascript : ES6 / ES7+
+11. Proje #7 - Kurs Uygulaması
+12. Proje #8 - Music Player
+13. Asynchronous JavaScript & APIs
+14. Proje #9 - Döviz Çeviri Uygulaması - Api Projesi
+15. Proje #10 - Translater Projesi - Api Projesi
+16. Proje #11 - Profil Arama - Api Projesi
+17. Javascript Patterns
+18. Proje #12 -  Oem Calculator
+19. Nodejs & Npm
+20. Webpack, Babel & ES6 Module
+21. Proje #13 - Film Projesi
+22. TypeScript
 
 Zaman kaybetmeden **Javascript** dünyasına katılın ve **Modern Javascript**' in  getirdiği güzellikleri **javascript dersleri** ile hep beraber tanımaya başlayalım.
 
